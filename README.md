@@ -1,5 +1,7 @@
 bone [![GoDoc](https://godoc.org/github.com/squiidz/bone?status.png)](http://godoc.org/github.com/squiidz/bone) [![Build Status](https://travis-ci.org/go-zoo/bone.svg)](https://travis-ci.org/squiidz/bone)
 =======
+## NOTICE
+The Original repo have move to https://github.com/go-zoo/bone
 
 ## What is bone ?
 
@@ -85,4 +87,4 @@ MIT
 
 ## Links
 
-Middleware Chaining module : [Claw](https://github.com/squiidz/claw)
+Middleware Chaining module : [Claw](https://github.com/go-zoo/claw)
