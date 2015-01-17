@@ -67,7 +67,6 @@ func Handler(rw http.ResponseWriter, req *http.Request) {
 ```
 ## TODO
 
-- DOC
 - More Testing
 - Debugging
 - Optimisation
